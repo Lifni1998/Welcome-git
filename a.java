@@ -9,5 +9,6 @@ public class a {
         int d;
         d=b-c;
         System.out.println("Result is:"+d);
+        System.out.println("hi hlo");
 }
 }
