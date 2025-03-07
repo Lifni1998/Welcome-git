@@ -7,7 +7,7 @@ public class a {
         System.out.println("Enter the second number:");
         int c=obj.nextInt();
         int d;
-        d=b+c;
+        d=b-c;
         System.out.println("Result is:"+d);
 }
 }
